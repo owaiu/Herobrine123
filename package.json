@@ -1,6 +1,6 @@
 {
   "name": "afkbot",
-  "version": "1.0.0",
+  "version": "1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
   "dependencies": {
     "config": "^3.3.3",
     "fs": "0.0.1-security",
-    "mineflayer": "^2.37.1",
-    "mineflayer-blockfinder": "0.0.7",
+    "mineflayer": "^4.4.0",
+    "mineflayer-blockfinder": "2.3.3",
     "mineflayer-cmd": "^1.0.2"
   }
 }
